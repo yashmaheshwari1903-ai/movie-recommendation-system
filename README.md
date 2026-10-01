@@ -6,7 +6,7 @@
 
 A command-line movie recommender that combines **content-based filtering** (TF-IDF on genres and keywords) with **item-based collaborative filtering** (cosine similarity on user ratings) into a **hybrid** model.
 
-**Author:** Raj Verma (25MIM10221), Integrated M.Tech AI, VIT Bhopal University
+Integrated M.Tech AI, VIT Bhopal University
 **Course project:** VITyarthi
 
 ---
