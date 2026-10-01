@@ -1,6 +1,6 @@
 # Movie Recommendation System: Project Report
 
-**Student:** Raj Verma  **Reg. No.:** 25MIM10221
+**Student:** Yash maheshwari
 **Programme:** Integrated M.Tech Artificial Intelligence, VIT Bhopal University
 **Platform:** VITyarthi  **Date:** September 2026
 
