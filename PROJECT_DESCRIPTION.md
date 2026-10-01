@@ -1,7 +1,7 @@
 # Project Description
 
 **Title:** Movie Recommendation System (Hybrid Content-Based and Collaborative Filtering)
-**Student:** Raj Verma | **Reg. No.:** 25MIM10221
+**Student:**Yash Maheshari | **Reg. No.:** 25MIM10082
 **Programme:** Integrated M.Tech Artificial Intelligence, VIT Bhopal University
 **Platform:** VITyarthi
 
